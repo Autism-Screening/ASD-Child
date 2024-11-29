@@ -10,9 +10,9 @@ positività <- data$ClassASD
 
 ittero_positivo <- table(ittero, positività)
 
-label_ittero <- c("Assenza di ittero", "Presenza di ittero")
+label_ittero <- c("Negativi", "Positivi")
 
-legenda_positività <- c("positivi", "negativi")
+legenda_positività <- c("Assenza di ittero", "Presenza di ittero")
 
 somma_positivi <- colSums(ittero_positivo)
 
