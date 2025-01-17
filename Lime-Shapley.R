@@ -106,7 +106,7 @@ print_confusion_metrics(test_metrics)
 scaled_data <- as.data.frame(scale(training[, best_subset]))
 explainer <- lime(scaled_data, best_model)
 test_data_scaled <- as.data.frame(scale(testing[, best_subset]))
-explanation <- explain(test_data_scaled, explainer, n_labels = 1, n_features = 5, bin_continuous = TRUE)
+explanation <- explain(test_data_scaled, explainer, n_labels = 1, n_features = 5, bin_continuous = FALSE)
 cat("\nSpiegazioni LIME per il sottoinsieme ottimale:", paste(best_subset, collapse = ", "), "\n")
 print(explanation)
 
