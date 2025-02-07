@@ -14,6 +14,9 @@ data$country_of_res <- gsub("'", "", data$country_of_res)
 # Sostituzione "United Arab Emirates" con "UAE"
 data$country_of_res[data$country_of_res == "United Arab Emirates"] <- "UAE"
 
+data<-data[data$result != 0, ]
+
+
 # Conversione dei valori YES e NO in 0 e 1
 data$jundice[data$jundice == "yes"] <- 1
 data$jundice[data$jundice == "no"] <- 0
@@ -48,5 +51,3 @@ if (any(is.na(data$age))) {
 }
 
 print("Conversioni effettuate!")
-
-#vioejvijeaoierajgihnsgifdsvihdivfdhvihaeghajerlkvhdagijvndaifvdsiovaiergiafjadsfjadvblkjdnvkjdanidsavjaenfkwanvkjandvkjnakvjnadkvbadksjvdakjvnakeljvn
