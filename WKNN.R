@@ -15,8 +15,8 @@ file_path <- "C:/ASD-Child/ConversioneValori.R"
 source(file_path)
 
 # Inizializzazione delle variabili
-variables <- c("A1_Score", "A2_Score", 
-               "A6_Score", "A7_Score", "A8_Score", "age")
+variables <- c("A1_Score", "A2_Score", "A3_Score", "A4_Score", "A5_Score", 
+               "A6_Score", "A7_Score", "A8_Score", "A9_Score", "A10_Score")
 
 percentage <- 0.70
 
@@ -24,7 +24,7 @@ k <- 7  # Numero di vicini da considerare
 
 weight <- 2
 
-kernel_type <- "gaussian"
+kernel_type <- "optimal"
 
 # Creazione copia temporanea del dataframe
 df <- data

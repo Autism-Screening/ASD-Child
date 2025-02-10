@@ -15,8 +15,7 @@ file_path <- "C:/ASD-Child/ConversioneValori.R"
 source(file_path)
 
 # Inizializzazione delle variabili
-variables <- c("A1_Score", "A2_Score", 
-               "A6_Score", "A7_Score", "A8_Score", "age")
+variables <- c("A2_Score", "A4_Score", "A7_Score", "A8_Score", "A9_Score")
 
 percentage <- 0.70
 
@@ -72,9 +71,14 @@ calculate_multiclass_metrics <- function(confusion_matrix) {
   
   # Calcolo metriche
   for (i in 1:n) {
-    # Precisione: TP / (TP + FP)
+    total_samples <- sum(confusion_matrix)
+    
     tp <- confusion_matrix[i, i]
     fp <- sum(confusion_matrix[, i]) - tp
+    fn <- sum(confusion_matrix[i, ]) - tp
+    tn <- total_samples - (tp + fp + fn)
+    
+    # Precisione: TP / (TP + FP)
     precision <- if(tp + fp > 0) tp / (tp + fp) else 0
     
     # Recall: TP / (TP + FN)
@@ -84,19 +88,18 @@ calculate_multiclass_metrics <- function(confusion_matrix) {
     # F1-Score: 2 * (precision * recall) / (precision + recall)
     f1_score <- if(precision + recall > 0) 2 * (precision * recall) / (precision + recall) else 0
     
-    # Accuracy globale
-    total_correct <- sum(diag(confusion_matrix))
-    total_samples <- sum(confusion_matrix)
-    global_accuracy <- total_correct / total_samples
-    
     # Salvataggio metriche
+    metrics$accuracy[i] <- accuracy
     metrics$precision[i] <- precision
     metrics$recall[i] <- recall
     metrics$f1_score[i] <- f1_score
   }
   
+  # Accuracy
+  accuracy <- (tp + tn) / (tp + tn + fp + fn)
+  
   return(list(
-    global_accuracy = global_accuracy,
+    global_accuracy = accuracy,
     per_class_metrics = metrics
   ))
 }
@@ -123,10 +126,10 @@ print(confusion_matrix_test)
 # Salvataggio dei risultati
 risultati <- calculate_multiclass_metrics(confusion_matrix_test)
 
-# Stampa dell'accuratezza del test set
+# Stampa dell'accuratezza del training set
 cat("Accuratezza test", risultati$global_accuracy)
 
-# Stampa metriche per ogni livello
+# Stampa delle metriche per ogni livello
 risultati[["per_class_metrics"]][["precision"]]
 risultati[["per_class_metrics"]][["recall"]]
 risultati[["per_class_metrics"]][["f1_score"]]
@@ -134,5 +137,5 @@ risultati[["per_class_metrics"]][["f1_score"]]
 # Salvataggio della confusion matrix per il test set
 confusion_matrix_test <- as.data.frame(as.table(confusion_matrix_test))
 
-# Stampa dell'accuratezza del test set
+# Stampa dell'accuratezza del training set
 cat("Accuratezza test", risultati$global_accuracy)

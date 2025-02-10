@@ -13,8 +13,7 @@ file_path <- "C:/ASD-Child/ConversioneValori.R"
 source(file_path)
 
 # Definizione delle variabili
-variables <- c("A1_Score", "A2_Score", 
-               "A6_Score", "A7_Score", "A8_Score", "age")
+variables <- c("A2_Score", "A4_Score", "A7_Score", "A8_Score", "A9_Score")
 
 percentage <- 0.70
 epochs <- 100  # Numero di epoche
@@ -58,7 +57,7 @@ model <- keras_model_sequential() %>%
 # Compilazione del modello
 model %>% compile(
   loss = "categorical_crossentropy",
-  optimizer = optimizer_adam(),
+  optimizer = optimizer_sgd(lr = 0.01, momentum = 0.9, nesterov = TRUE),
   metrics = c("accuracy")
 )
 
@@ -99,5 +98,4 @@ cat("\n🔹 Matrice di Confusione - Test Set:\n")
 print(confusion_matrix_test)
 
 # Stampa dell'accuratezza finale sul Test Set
-score <- model %>% evaluate(X_test, y_test)
 cat("Test Accuracy:", test_loss_and_accuracy[2])
