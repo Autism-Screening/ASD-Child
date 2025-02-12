@@ -1,5 +1,11 @@
 # Carica il file CSV
-data<-read.csv(file="C:/R/Autism-Child-Data.csv",sep=",",header=T)
+file_path <- "C:/ASD-Child/Autism-Child-Data.csv"
+file_path_to_generated <- "C:/ASD-Child/generated_autism_data.csv"
+data <- read.csv(file=file_path,sep=",",header=T)
+
+# data <- data[-72, ]
+
+# data <- rbind(data, generated_data)
 
 # Eliminazione colonne age_desc e relation
 data <- subset(data, select = -c(age_desc, relation))
@@ -14,8 +20,7 @@ data$country_of_res <- gsub("'", "", data$country_of_res)
 # Sostituzione "United Arab Emirates" con "UAE"
 data$country_of_res[data$country_of_res == "United Arab Emirates"] <- "UAE"
 
-data<-data[data$result != 0, ]
-
+data <- data[data$result != 0, ]
 
 # Conversione dei valori YES e NO in 0 e 1
 data$jundice[data$jundice == "yes"] <- 1
