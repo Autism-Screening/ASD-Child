@@ -1,0 +1,293 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,autism,country_of_res,used_app_before,result,age_desc,relation,ClassASD
+0,1,0,0,1,1,0,0,0,1,9,f,Middle Eastern,yes,yes,New Zealand,yes,4,4-11 years,Health care professional,0
+1,1,0,1,1,1,0,0,0,0,4,m,Hispanic,no,no,Isle of Man,yes,5,4-11 years,Health care professional,0
+0,0,0,0,0,0,1,0,1,0,11,m,Hispanic,yes,yes,China,no,2,4-11 years,Health care professional,0
+0,0,1,1,1,0,0,1,1,1,6,f,Middle Eastern,no,no,New Zealand,no,6,4-11 years,Self,0
+0,1,1,0,0,1,1,0,1,0,10,m,Hispanic,yes,yes,Egypt,no,5,4-11 years,Health care professional,0
+0,0,0,0,0,0,1,1,0,0,11,m,Hispanic,yes,yes,Oman,no,2,4-11 years,Health care professional,0
+0,0,0,1,1,0,0,0,1,0,7,m,Asian,no,no,Japan,yes,3,4-11 years,Health care professional,0
+0,0,0,0,0,0,0,0,1,0,10,f,Black,yes,no,Turkey,yes,1,4-11 years,Relative,0
+0,1,0,1,1,0,0,1,1,1,11,m,Latino,yes,no,United States,yes,6,4-11 years,Relative,0
+1,1,0,1,0,0,0,1,0,0,8,f,White-European,no,yes,Brazil,yes,4,4-11 years,Relative,0
+0,0,0,0,1,1,0,0,1,1,4,m,Latino,yes,yes,India,yes,4,4-11 years,Health care professional,0
+0,1,1,1,0,1,1,1,0,1,10,f,Asian,no,no,Bhutan,no,7,4-11 years,Relative,1
+1,0,1,0,1,1,1,1,1,0,11,f,Middle Eastern,no,no,Pakistan,yes,7,4-11 years,Health care professional,1
+1,0,0,1,1,0,1,0,0,0,10,m,Turkish,no,yes,Austria,yes,4,4-11 years,Self,0
+1,1,1,1,1,1,0,1,1,0,7,m,Latino,yes,yes,Qatar,yes,8,4-11 years,Self,1
+0,0,1,1,0,0,1,1,0,1,9,m,Latino,no,no,Sweden,no,5,4-11 years,Health care professional,0
+1,1,0,0,1,1,1,1,1,1,4,f,Black,no,no,United Kingdom,no,8,4-11 years,Parent,1
+0,0,1,1,1,0,0,0,0,0,4,m,Hispanic,no,yes,Bhutan,no,3,4-11 years,Parent,0
+0,0,1,0,0,0,0,0,1,1,7,m,Middle Eastern,yes,yes,Malta,no,3,4-11 years,Self,0
+0,1,1,0,1,1,0,1,1,0,4,f,Middle Eastern,no,no,Europe,yes,6,4-11 years,Self,0
+0,1,1,1,0,0,1,0,1,1,11,f,Asian,yes,no,Canada,no,6,4-11 years,Relative,0
+0,0,0,1,0,1,1,0,0,0,9,f,White-European,no,no,Malaysia,yes,3,4-11 years,Health care professional,0
+1,1,0,0,1,1,1,1,1,1,7,f,South Asian,yes,no,Argentina,yes,8,4-11 years,Self,1
+1,1,0,0,0,1,0,1,0,1,10,m,White-European,yes,no,Mexico,no,5,4-11 years,Relative,0
+1,0,1,0,1,1,0,0,0,1,6,m,Black,no,yes,Philippines,yes,5,4-11 years,Self,0
+1,0,0,1,1,0,0,0,0,1,8,m,White-European,yes,yes,Lebanon,no,4,4-11 years,Health care professional,0
+0,0,0,1,1,0,0,1,1,1,5,f,Turkish,yes,yes,Bhutan,yes,5,4-11 years,Relative,0
+1,0,0,0,1,1,0,1,1,1,11,f,South Asian,no,yes,India,no,6,4-11 years,Parent,0
+0,1,1,0,0,0,0,0,0,1,10,m,Black,no,yes,Malta,yes,3,4-11 years,Parent,0
+1,0,0,1,0,0,1,1,1,1,9,f,South Asian,yes,no,Italy,yes,6,4-11 years,Self,0
+0,1,0,1,1,1,0,1,0,0,10,m,Latino,yes,no,Sweden,yes,5,4-11 years,Parent,0
+1,1,1,0,0,0,1,0,1,0,10,f,Asian,no,yes,Mexico,no,5,4-11 years,Self,0
+0,1,1,1,1,0,0,1,1,1,4,m,Others,no,yes,Costa Rica,no,7,4-11 years,Health care professional,1
+1,0,0,0,0,0,0,0,1,0,4,m,South Asian,yes,no,Germany,yes,2,4-11 years,Relative,0
+1,0,0,1,1,0,1,1,1,0,9,m,Hispanic,yes,no,Malaysia,yes,6,4-11 years,Health care professional,0
+1,1,1,0,1,0,1,1,0,0,10,m,Turkish,no,no,Europe,yes,6,4-11 years,Relative,0
+1,0,0,1,1,0,0,0,0,1,8,f,Asian,yes,yes,Armenia,no,4,4-11 years,Health care professional,0
+0,0,0,1,1,1,1,0,1,0,11,m,Middle Eastern,yes,yes,South Africa,yes,5,4-11 years,Health care professional,0
+0,1,0,0,0,1,0,1,1,0,7,f,South Asian,no,yes,Saudi Arabia,yes,4,4-11 years,Parent,0
+1,0,0,1,0,0,1,1,0,1,8,f,Hispanic,no,yes,Ghana,no,5,4-11 years,Parent,0
+0,1,0,1,0,1,0,1,1,1,9,f,White-European,yes,no,Nepal,yes,6,4-11 years,Relative,0
+1,1,1,1,1,1,1,0,0,0,4,m,Black,yes,yes,Qatar,no,7,4-11 years,Self,1
+1,0,1,0,1,0,1,1,0,1,7,m,Asian,no,no,Germany,yes,6,4-11 years,Parent,0
+1,1,1,1,1,1,1,0,0,0,7,m,Middle Eastern,no,no,New Zealand,yes,7,4-11 years,Relative,1
+0,1,0,1,0,0,1,0,1,1,8,f,Middle Eastern,yes,yes,Argentina,yes,5,4-11 years,Parent,0
+1,1,0,1,1,1,1,0,0,0,9,m,Others,yes,no,Japan,yes,6,4-11 years,Relative,0
+0,1,0,1,0,1,1,1,0,0,7,m,South Asian,no,no,Egypt,no,5,4-11 years,Parent,0
+0,1,1,1,1,1,0,1,0,0,8,f,Asian,yes,yes,Turkey,no,6,4-11 years,Parent,0
+1,1,0,0,1,0,0,1,1,1,10,f,Black,yes,no,Ireland,yes,6,4-11 years,Self,0
+0,1,1,0,0,1,1,0,1,1,6,f,Black,yes,yes,Jordan,no,6,4-11 years,Health care professional,0
+1,0,0,1,0,1,0,0,1,0,9,m,Others,no,yes,Russia,no,4,4-11 years,Self,0
+1,0,1,0,1,0,0,1,1,1,4,f,Latino,yes,no,Canada,no,6,4-11 years,Parent,0
+0,0,0,1,1,0,1,0,0,1,8,m,Latino,yes,no,Qatar,yes,4,4-11 years,Relative,0
+0,1,1,1,0,0,1,0,1,0,9,f,Hispanic,no,yes,Turkey,yes,5,4-11 years,Health care professional,0
+1,0,0,1,0,0,1,1,0,0,7,m,Latino,no,no,Mexico,no,4,4-11 years,Relative,0
+1,1,0,0,1,0,1,1,1,1,4,f,Middle Eastern,yes,no,Bhutan,no,7,4-11 years,Relative,1
+0,0,0,1,0,1,1,1,0,0,9,f,White-European,no,no,Japan,no,4,4-11 years,Parent,0
+0,0,0,1,0,1,1,1,0,1,5,m,Asian,no,no,Costa Rica,no,5,4-11 years,Health care professional,0
+1,1,0,1,0,0,0,0,0,1,4,f,Others,yes,yes,Philippines,yes,4,4-11 years,Health care professional,0
+0,1,0,1,1,0,0,1,1,1,6,f,Turkish,yes,no,New Zealand,no,6,4-11 years,Self,0
+0,1,1,0,0,1,1,0,0,1,4,f,Others,no,no,United Kingdom,yes,5,4-11 years,Parent,0
+0,1,0,1,1,0,0,1,1,0,10,f,Asian,no,yes,Iraq,no,5,4-11 years,Health care professional,0
+0,0,0,0,1,0,0,1,0,1,9,f,Hispanic,yes,no,United States,yes,3,4-11 years,Parent,0
+1,1,0,0,1,0,0,0,0,1,11,m,Others,no,yes,Kutwait,no,4,4-11 years,Relative,0
+1,0,1,0,0,1,0,0,1,1,4,m,Asian,yes,yes,Europe,yes,5,4-11 years,Self,0
+0,1,0,1,1,0,1,1,0,0,7,f,South Asian,yes,yes,Ireland,no,5,4-11 years,Health care professional,0
+1,0,1,0,0,0,0,0,0,0,7,f,Others,no,yes,Georgia,yes,2,4-11 years,Self,0
+0,1,0,1,0,0,1,1,1,1,9,f,Hispanic,yes,yes,Georgia,yes,6,4-11 years,Self,0
+1,0,1,0,0,1,1,1,1,1,8,m,White-European,yes,yes,Egypt,no,7,4-11 years,Parent,1
+0,0,1,0,0,0,0,0,1,1,10,m,Middle Eastern,yes,no,China,no,3,4-11 years,Self,0
+1,1,0,0,1,1,0,0,0,0,6,m,South Asian,yes,yes,Japan,yes,4,4-11 years,Parent,0
+0,1,0,0,1,1,1,0,1,0,6,m,Middle Eastern,yes,yes,Afghanistan,no,5,4-11 years,Parent,0
+0,1,0,1,0,1,0,1,0,0,7,f,White-European,yes,yes,Bulgaria,no,4,4-11 years,Health care professional,0
+0,0,1,1,1,0,1,0,1,0,11,m,Black,yes,yes,Australia,no,5,4-11 years,Health care professional,0
+0,1,0,1,1,1,0,1,1,0,10,m,Black,yes,yes,Brazil,yes,6,4-11 years,Self,0
+0,1,1,1,1,0,1,1,1,1,10,f,Latino,no,no,Qatar,no,8,4-11 years,Self,1
+1,0,1,1,1,1,0,1,0,0,7,m,Latino,no,yes,Libya,no,6,4-11 years,Health care professional,0
+1,0,1,0,0,0,0,0,1,0,6,m,Latino,no,yes,Georgia,yes,3,4-11 years,Relative,0
+1,1,0,1,1,0,0,0,0,0,7,f,Asian,no,no,Costa Rica,yes,4,4-11 years,Health care professional,0
+1,0,0,0,1,1,0,0,1,0,7,m,Turkish,yes,no,India,yes,4,4-11 years,Relative,0
+0,0,1,1,0,1,0,0,0,1,7,f,South Asian,no,no,Oman,no,4,4-11 years,Self,0
+1,1,1,1,0,1,0,0,0,1,8,f,Middle Eastern,no,yes,Italy,yes,6,4-11 years,Health care professional,0
+0,0,1,1,0,0,0,0,1,1,10,f,Asian,no,yes,UAE,yes,4,4-11 years,Self,0
+0,0,1,1,0,1,0,1,0,1,8,f,South Asian,yes,yes,Bahrain,no,5,4-11 years,Self,0
+1,0,0,1,1,1,1,1,0,1,9,f,Others,yes,no,Syria,no,7,4-11 years,Self,1
+1,0,1,0,1,0,1,1,1,0,9,m,Others,yes,yes,United States,yes,6,4-11 years,Relative,0
+0,1,1,0,1,0,1,1,0,0,8,f,Others,yes,yes,Iraq,no,5,4-11 years,Relative,0
+1,0,0,1,1,1,0,0,1,0,5,m,Others,yes,yes,New Zealand,yes,5,4-11 years,Parent,0
+0,0,0,0,1,1,0,1,0,0,8,m,Middle Eastern,no,yes,Brazil,yes,3,4-11 years,Parent,0
+1,1,0,1,1,0,0,0,1,1,6,f,White-European,no,no,Philippines,yes,6,4-11 years,Health care professional,0
+0,1,0,1,0,1,0,1,1,0,10,f,Others,yes,yes,United Kingdom,yes,5,4-11 years,Health care professional,0
+1,1,0,0,0,0,0,1,0,1,10,f,South Asian,yes,yes,Jordan,yes,4,4-11 years,Health care professional,0
+1,0,1,0,1,0,0,0,0,1,5,m,White-European,yes,yes,Bhutan,yes,4,4-11 years,Health care professional,0
+0,1,0,1,1,0,0,1,0,1,8,f,Black,yes,yes,Isle of Man,no,5,4-11 years,Health care professional,0
+1,1,1,0,1,1,1,1,0,0,10,f,South Asian,no,yes,Malta,no,7,4-11 years,Self,1
+1,0,0,0,0,0,1,1,1,0,11,f,Hispanic,yes,yes,Libya,yes,4,4-11 years,Relative,0
+0,1,1,1,1,0,1,1,1,1,6,f,South Asian,yes,yes,Libya,yes,8,4-11 years,Relative,1
+1,1,1,0,0,1,0,1,1,1,8,m,Latino,yes,no,Syria,yes,7,4-11 years,Health care professional,1
+0,1,1,0,0,1,0,0,1,0,9,m,Hispanic,yes,no,Bahrain,yes,4,4-11 years,Relative,0
+0,0,1,1,1,0,1,1,1,0,4,m,Black,yes,yes,Japan,no,6,4-11 years,Health care professional,0
+1,0,0,1,0,1,1,0,1,1,7,m,South Asian,no,no,Georgia,no,6,4-11 years,Health care professional,0
+1,1,0,1,1,0,0,0,0,1,9,m,Middle Eastern,yes,no,Sweden,yes,5,4-11 years,Self,0
+0,1,0,1,0,1,1,1,0,0,11,f,Others,yes,no,Latvia,no,5,4-11 years,Health care professional,0
+0,0,0,0,1,1,1,1,1,1,5,f,Black,no,yes,Nepal,no,6,4-11 years,Parent,0
+1,0,1,1,0,1,1,0,1,1,11,m,Turkish,no,no,Kutwait,yes,7,4-11 years,Parent,1
+1,0,0,0,0,0,0,1,1,0,8,m,Turkish,no,no,India,yes,3,4-11 years,Self,0
+1,0,1,1,1,0,1,1,1,1,4,m,South Asian,yes,yes,Germany,yes,8,4-11 years,Parent,1
+1,0,1,0,0,1,0,0,1,1,6,m,Latino,yes,yes,Italy,no,5,4-11 years,Health care professional,0
+0,1,1,0,1,1,0,0,1,1,10,f,South Asian,no,yes,Saudi Arabia,no,6,4-11 years,Parent,0
+0,1,0,1,1,0,1,0,0,0,7,f,Asian,yes,no,Lebanon,yes,4,4-11 years,Self,0
+1,1,1,0,0,1,1,1,1,0,10,f,South Asian,yes,no,Philippines,no,7,4-11 years,Relative,1
+0,1,0,0,0,1,1,0,0,1,10,m,Black,yes,yes,Argentina,no,4,4-11 years,Self,0
+0,0,0,1,1,1,0,1,0,1,7,f,Middle Eastern,yes,yes,Europe,yes,5,4-11 years,Relative,0
+1,0,1,0,0,0,0,0,0,0,6,m,Asian,yes,yes,Malta,yes,2,4-11 years,Health care professional,0
+0,0,1,0,1,1,1,0,1,1,11,m,Hispanic,no,yes,Malaysia,no,6,4-11 years,Health care professional,0
+0,1,0,1,1,1,0,0,0,0,11,m,Turkish,yes,yes,Ghana,yes,4,4-11 years,Parent,0
+1,1,0,0,1,1,1,1,1,1,11,f,Black,no,no,Bahrain,no,8,4-11 years,Self,1
+0,1,1,1,1,1,1,0,1,1,7,m,Latino,yes,no,Turkey,yes,8,4-11 years,Self,1
+1,0,0,0,0,1,0,0,1,0,6,m,Middle Eastern,yes,yes,Costa Rica,yes,3,4-11 years,Health care professional,0
+0,1,1,1,0,0,1,1,0,1,5,m,Hispanic,yes,no,Nepal,no,6,4-11 years,Self,0
+0,1,1,1,1,1,0,0,0,0,11,f,Black,yes,yes,Nigeria,yes,5,4-11 years,Self,0
+0,0,1,1,1,1,0,0,1,1,10,f,Latino,no,yes,Kutwait,no,6,4-11 years,Health care professional,0
+0,1,1,1,1,0,1,0,0,0,11,f,Turkish,yes,yes,Europe,no,5,4-11 years,Parent,0
+0,0,1,0,0,0,1,1,1,0,5,f,South Asian,no,no,Bahrain,yes,4,4-11 years,Relative,0
+0,0,1,1,0,0,1,1,0,0,4,f,Latino,no,yes,Bahrain,no,4,4-11 years,Relative,0
+1,1,1,0,0,0,0,0,1,0,7,f,Black,no,no,UAE,yes,4,4-11 years,Self,0
+0,1,1,0,1,0,1,0,0,0,8,m,South Asian,no,no,Armenia,yes,4,4-11 years,Self,0
+1,0,0,1,0,1,1,1,1,0,10,f,Turkish,yes,yes,Japan,no,6,4-11 years,Parent,0
+1,0,0,1,1,1,0,1,0,1,9,m,South Asian,yes,yes,Malaysia,no,6,4-11 years,Health care professional,0
+0,0,0,1,1,0,1,0,0,1,9,m,South Asian,no,no,Netherlands,yes,4,4-11 years,Health care professional,0
+0,0,0,1,0,1,1,1,1,1,11,m,Asian,no,yes,Japan,yes,6,4-11 years,Self,0
+1,0,1,1,1,1,0,1,1,0,8,f,White-European,no,yes,Canada,no,7,4-11 years,Parent,1
+0,1,1,1,1,0,1,0,1,0,9,f,Others,yes,yes,Europe,yes,6,4-11 years,Relative,0
+1,0,1,0,1,1,0,0,0,0,10,f,Turkish,yes,yes,Philippines,no,4,4-11 years,Health care professional,0
+0,1,0,0,1,1,1,1,1,1,6,f,Latino,yes,no,Canada,no,7,4-11 years,Health care professional,1
+0,0,0,0,1,1,0,0,0,0,9,f,Asian,no,no,Ghana,no,2,4-11 years,Health care professional,0
+1,1,0,0,0,1,0,1,1,1,8,f,Asian,yes,yes,Libya,no,6,4-11 years,Relative,0
+1,0,1,1,0,0,1,0,1,0,9,m,Asian,yes,no,China,no,5,4-11 years,Relative,0
+1,0,1,0,1,0,1,0,1,1,4,m,Others,no,no,Russia,no,6,4-11 years,Relative,0
+0,1,1,1,0,0,1,0,0,1,4,m,Black,yes,no,China,yes,5,4-11 years,Relative,0
+1,1,1,1,0,0,0,1,1,1,5,f,Others,yes,no,Argentina,yes,7,4-11 years,Relative,1
+0,0,0,1,0,0,0,1,0,1,9,f,Latino,no,yes,Ireland,no,3,4-11 years,Health care professional,0
+0,0,0,0,1,0,0,1,1,1,10,m,Middle Eastern,yes,no,Canada,no,4,4-11 years,Health care professional,0
+1,1,0,0,0,1,1,1,1,1,5,f,Hispanic,yes,yes,Canada,no,7,4-11 years,Self,1
+1,1,1,1,1,1,1,0,0,0,5,f,Black,yes,no,Iraq,no,7,4-11 years,Relative,1
+0,1,0,1,1,0,0,0,1,0,5,m,Black,no,yes,India,no,4,4-11 years,Self,0
+0,0,0,0,1,0,1,0,1,0,11,f,Hispanic,no,no,UAE,no,3,4-11 years,Parent,0
+1,1,0,0,0,0,0,1,0,1,10,f,Black,yes,no,Turkey,no,4,4-11 years,Relative,0
+0,1,1,1,1,0,0,0,1,1,6,f,White-European,no,yes,Pakistan,yes,6,4-11 years,Relative,0
+0,1,1,0,1,0,1,0,0,1,8,f,Others,no,no,South Africa,no,5,4-11 years,Self,0
+1,0,0,0,1,1,0,0,0,0,4,f,South Asian,no,no,South Africa,yes,3,4-11 years,Parent,0
+1,1,1,0,0,1,0,1,0,1,6,f,White-European,yes,no,Germany,yes,6,4-11 years,Relative,0
+0,0,0,1,0,1,0,1,0,1,7,m,Middle Eastern,no,yes,Ireland,no,4,4-11 years,Relative,0
+1,1,0,1,0,0,1,1,1,0,5,f,South Asian,no,no,Ghana,no,6,4-11 years,Parent,0
+0,0,1,1,0,0,0,1,0,1,8,m,Hispanic,yes,yes,Bahrain,yes,4,4-11 years,Self,0
+1,0,1,0,1,1,0,1,1,1,9,m,Black,yes,yes,Armenia,yes,7,4-11 years,Parent,1
+0,1,1,0,1,0,1,0,1,0,5,m,Hispanic,yes,yes,Malaysia,no,5,4-11 years,Parent,0
+1,1,1,0,1,0,0,0,0,1,8,m,White-European,no,no,Bangladesh,yes,5,4-11 years,Health care professional,0
+1,1,0,0,1,1,1,0,1,0,5,m,Hispanic,yes,no,Bulgaria,no,6,4-11 years,Health care professional,0
+0,0,1,0,0,0,0,1,1,0,10,m,Asian,yes,yes,Egypt,yes,3,4-11 years,Relative,0
+1,0,1,0,1,1,0,0,0,1,11,f,White-European,no,yes,Canada,no,5,4-11 years,Health care professional,0
+1,0,1,0,1,1,0,1,0,1,8,m,White-European,yes,yes,India,no,6,4-11 years,Self,0
+1,0,1,0,0,0,1,0,1,1,4,f,Middle Eastern,yes,yes,Qatar,yes,5,4-11 years,Relative,0
+0,0,1,1,1,0,0,0,0,0,5,m,Latino,yes,yes,Argentina,no,3,4-11 years,Health care professional,0
+0,1,1,1,1,1,0,1,0,1,10,m,Middle Eastern,no,yes,Netherlands,no,7,4-11 years,Self,1
+0,1,0,0,0,1,0,1,1,0,10,m,South Asian,yes,yes,Ghana,no,4,4-11 years,Parent,0
+1,1,0,1,0,0,1,1,0,0,7,m,Turkish,no,yes,Bulgaria,yes,5,4-11 years,Self,0
+1,0,1,0,1,1,0,1,1,0,9,m,White-European,no,no,Sweden,no,6,4-11 years,Self,0
+0,1,1,0,1,0,0,1,0,1,5,f,South Asian,no,no,Europe,no,5,4-11 years,Health care professional,0
+1,0,0,1,1,0,0,0,1,1,6,m,Middle Eastern,no,yes,Nigeria,no,5,4-11 years,Self,0
+0,0,0,1,0,0,1,0,1,1,9,f,Others,no,no,New Zealand,yes,4,4-11 years,Relative,0
+1,1,1,1,0,1,1,0,1,0,4,f,Middle Eastern,yes,yes,Malta,yes,7,4-11 years,Self,1
+0,1,0,1,1,0,1,0,0,1,4,f,Latino,no,no,Iraq,no,5,4-11 years,Parent,0
+1,1,1,1,0,1,0,1,0,0,5,f,Turkish,no,yes,India,no,6,4-11 years,Parent,0
+1,1,1,1,1,1,0,1,1,1,4,f,South Asian,no,yes,Austria,yes,9,4-11 years,Relative,1
+1,0,1,0,0,1,1,1,1,1,7,f,Middle Eastern,no,yes,China,no,7,4-11 years,Parent,1
+0,0,0,1,1,0,0,1,1,1,11,f,Asian,no,no,Syria,yes,5,4-11 years,Health care professional,0
+1,1,1,0,0,0,1,1,0,0,5,f,White-European,no,yes,Kutwait,yes,5,4-11 years,Relative,0
+1,0,1,1,1,0,1,1,0,1,6,m,Black,no,no,Austria,yes,7,4-11 years,Parent,1
+0,1,0,1,1,0,1,1,1,1,4,m,Asian,yes,yes,Netherlands,no,7,4-11 years,Relative,1
+0,1,1,0,1,0,0,1,1,0,4,m,Others,yes,no,Canada,yes,5,4-11 years,Parent,0
+0,1,0,0,1,1,0,0,1,1,7,m,Latino,no,no,Nepal,yes,5,4-11 years,Self,0
+1,1,0,1,0,0,1,0,1,1,9,m,Latino,yes,no,Qatar,no,6,4-11 years,Self,0
+1,1,1,0,0,1,0,0,1,1,10,m,Latino,yes,yes,Turkey,no,6,4-11 years,Health care professional,0
+0,0,1,0,1,1,0,1,0,1,4,f,Black,no,no,India,yes,5,4-11 years,Relative,0
+1,0,0,0,1,0,0,1,0,1,4,f,Hispanic,no,yes,Bhutan,no,4,4-11 years,Parent,0
+1,1,0,0,1,1,1,0,1,1,7,m,Latino,no,yes,Germany,no,7,4-11 years,Health care professional,1
+1,0,0,1,1,1,0,0,1,0,9,m,Black,no,yes,Bahrain,no,5,4-11 years,Health care professional,0
+0,1,1,1,1,1,0,0,0,1,4,f,Middle Eastern,no,yes,Pakistan,yes,6,4-11 years,Self,0
+0,0,0,0,0,0,0,0,1,0,8,f,Middle Eastern,yes,yes,Armenia,yes,1,4-11 years,Self,0
+1,1,0,1,1,0,1,1,0,0,8,f,Middle Eastern,yes,no,United Kingdom,yes,6,4-11 years,Health care professional,0
+0,0,1,0,1,1,0,0,0,0,6,f,Middle Eastern,yes,yes,Brazil,yes,3,4-11 years,Self,0
+1,0,0,1,1,1,1,1,1,1,5,f,South Asian,yes,no,Costa Rica,no,8,4-11 years,Self,1
+1,1,1,0,1,0,1,1,0,1,6,f,Hispanic,yes,no,Sweden,no,7,4-11 years,Health care professional,1
+1,1,0,1,1,1,1,0,0,0,8,m,Latino,no,no,China,yes,6,4-11 years,Health care professional,0
+1,0,1,1,0,0,1,0,0,0,8,m,Middle Eastern,yes,yes,Qatar,no,4,4-11 years,Health care professional,0
+1,1,0,0,0,0,1,1,0,0,10,f,Black,no,yes,Pakistan,yes,4,4-11 years,Health care professional,0
+0,0,1,0,0,0,0,1,1,1,9,f,Black,no,no,Syria,yes,4,4-11 years,Relative,0
+0,0,1,1,0,0,0,1,1,1,10,f,Middle Eastern,no,yes,Nigeria,yes,5,4-11 years,Relative,0
+1,0,0,1,1,1,1,0,1,1,11,m,Turkish,yes,yes,Pakistan,yes,7,4-11 years,Parent,1
+1,1,0,1,0,1,0,1,1,1,9,m,Middle Eastern,yes,yes,Syria,no,7,4-11 years,Relative,1
+1,0,1,0,0,1,1,0,1,0,10,m,Latino,no,no,South Africa,yes,5,4-11 years,Self,0
+0,0,0,1,0,1,1,0,0,1,8,m,South Asian,no,no,Malaysia,no,4,4-11 years,Health care professional,0
+0,0,0,1,0,1,0,1,0,0,7,f,White-European,yes,yes,Bangladesh,no,3,4-11 years,Health care professional,0
+1,0,0,1,0,0,0,0,1,0,7,f,South Asian,no,yes,United Kingdom,no,3,4-11 years,Parent,0
+0,1,1,0,1,1,0,0,0,0,6,m,Latino,no,no,Syria,no,4,4-11 years,Parent,0
+1,0,0,1,0,0,1,0,1,1,10,m,Hispanic,yes,no,Netherlands,no,5,4-11 years,Relative,0
+1,0,0,0,1,1,0,1,0,0,5,f,Others,no,no,Canada,yes,4,4-11 years,Health care professional,0
+1,0,0,1,1,0,1,0,0,1,7,m,Hispanic,no,yes,Italy,no,5,4-11 years,Health care professional,0
+0,1,0,0,1,0,0,0,1,0,8,m,South Asian,yes,no,Libya,no,3,4-11 years,Health care professional,0
+0,0,0,0,1,0,1,1,0,1,7,m,Hispanic,yes,no,Bulgaria,no,4,4-11 years,Parent,0
+1,1,1,1,1,1,0,1,0,1,11,f,Asian,no,no,Afghanistan,yes,8,4-11 years,Health care professional,1
+1,0,1,1,1,1,0,0,0,1,9,f,Others,no,no,Europe,yes,6,4-11 years,Parent,0
+1,0,1,1,0,1,1,0,1,1,7,f,South Asian,no,no,Mexico,yes,7,4-11 years,Self,1
+0,0,1,1,0,1,1,1,1,1,6,m,Middle Eastern,no,yes,Mexico,yes,7,4-11 years,Relative,1
+0,0,0,0,0,0,1,1,1,0,9,m,Black,no,yes,Austria,no,3,4-11 years,Parent,0
+1,1,0,1,0,0,1,0,0,0,8,m,Turkish,yes,yes,U.S. Outlying Islands,no,4,4-11 years,Relative,0
+0,1,0,1,0,1,0,0,1,0,8,m,South Asian,no,yes,Nepal,no,4,4-11 years,Health care professional,0
+0,0,1,1,0,1,0,0,1,0,8,f,Others,yes,yes,Bangladesh,no,4,4-11 years,Self,0
+1,0,1,1,0,1,0,0,0,1,8,m,Latino,no,yes,China,yes,5,4-11 years,Relative,0
+1,1,1,1,0,1,0,0,1,1,4,m,Hispanic,yes,no,Georgia,yes,7,4-11 years,Parent,1
+1,0,1,0,1,0,0,1,1,0,9,f,Black,no,yes,UAE,no,5,4-11 years,Parent,0
+1,1,1,1,0,0,0,1,1,0,8,m,South Asian,yes,yes,Oman,yes,6,4-11 years,Parent,0
+0,1,0,0,1,0,0,0,0,0,9,f,Black,yes,yes,Jordan,yes,2,4-11 years,Health care professional,0
+1,0,0,0,0,1,1,0,1,1,9,f,Hispanic,yes,yes,Libya,no,5,4-11 years,Relative,0
+1,0,1,0,1,1,0,1,0,0,11,f,Hispanic,no,no,Nigeria,yes,5,4-11 years,Relative,0
+0,0,0,1,1,1,1,1,0,1,10,m,Others,yes,no,Saudi Arabia,yes,6,4-11 years,Relative,0
+0,1,1,0,0,0,0,0,1,1,6,m,South Asian,yes,yes,Isle of Man,no,4,4-11 years,Self,0
+0,1,0,0,1,0,1,0,0,1,11,m,Middle Eastern,yes,no,Armenia,yes,4,4-11 years,Self,0
+1,0,1,0,0,1,0,0,0,0,5,m,Black,yes,yes,Romania,no,3,4-11 years,Self,0
+1,0,1,1,0,1,0,1,0,0,9,m,Turkish,no,yes,Bhutan,yes,5,4-11 years,Relative,0
+0,1,1,0,1,1,1,1,1,1,10,f,Hispanic,no,no,Bulgaria,no,8,4-11 years,Self,1
+1,0,0,1,1,0,1,1,0,1,11,m,White-European,no,no,Pakistan,yes,6,4-11 years,Relative,0
+0,0,1,0,0,1,1,1,1,1,7,m,Asian,yes,no,Kutwait,no,6,4-11 years,Self,0
+0,1,1,0,1,1,0,0,0,1,5,m,South Asian,yes,yes,United States,no,5,4-11 years,Relative,0
+0,1,0,0,1,1,1,0,0,0,6,f,Others,yes,yes,New Zealand,no,4,4-11 years,Relative,0
+0,1,0,0,1,1,1,0,0,0,6,m,Turkish,no,no,United Kingdom,yes,4,4-11 years,Parent,0
+1,1,1,0,1,0,0,1,1,0,6,m,Hispanic,yes,yes,Latvia,yes,6,4-11 years,Health care professional,0
+1,0,0,1,1,1,1,1,1,0,8,m,Hispanic,yes,yes,Austria,yes,7,4-11 years,Parent,1
+1,0,1,1,1,0,0,1,1,0,6,m,Middle Eastern,no,no,Turkey,no,6,4-11 years,Parent,0
+1,0,0,1,0,0,0,1,1,1,11,f,Others,no,yes,Ireland,no,5,4-11 years,Relative,0
+0,1,1,1,0,1,0,0,0,1,6,f,White-European,no,no,Austria,no,5,4-11 years,Health care professional,0
+0,1,0,1,1,0,0,1,0,1,9,m,Turkish,no,no,Nigeria,yes,5,4-11 years,Parent,0
+1,1,1,0,1,1,0,1,0,0,5,m,Others,yes,no,Oman,yes,6,4-11 years,Relative,0
+1,0,0,0,1,1,0,1,1,1,6,f,White-European,yes,no,Germany,no,6,4-11 years,Self,0
+0,1,0,1,1,1,0,1,0,1,6,m,Others,no,no,Afghanistan,yes,6,4-11 years,Health care professional,0
+0,0,1,0,0,1,0,1,0,1,6,m,Others,yes,no,Latvia,yes,4,4-11 years,Parent,0
+1,0,1,1,0,0,1,1,1,0,9,m,White-European,no,no,Qatar,no,6,4-11 years,Self,0
+0,0,0,1,1,0,0,0,1,1,10,f,Turkish,yes,yes,Jordan,yes,4,4-11 years,Self,0
+1,1,0,1,0,0,1,1,0,1,6,f,Latino,yes,no,United States,yes,6,4-11 years,Parent,0
+1,1,0,1,1,1,1,1,1,1,4,f,Latino,no,yes,UAE,yes,9,4-11 years,Relative,1
+1,1,0,1,1,1,0,0,1,0,4,f,Latino,yes,no,Brazil,yes,6,4-11 years,Health care professional,0
+1,0,1,0,1,0,0,1,1,0,6,m,Black,yes,no,Turkey,no,5,4-11 years,Self,0
+1,1,1,0,1,0,1,1,1,1,8,f,Turkish,no,no,Libya,yes,8,4-11 years,Relative,1
+1,0,1,0,1,0,0,0,1,1,11,m,Middle Eastern,no,no,Ghana,no,5,4-11 years,Health care professional,0
+1,1,0,0,0,1,0,0,0,0,4,m,White-European,yes,yes,Canada,yes,3,4-11 years,Relative,0
+1,1,0,1,0,1,1,1,0,0,7,f,Others,yes,yes,Germany,yes,6,4-11 years,Relative,0
+0,0,1,0,1,0,0,0,0,1,7,m,Latino,yes,yes,Kutwait,yes,3,4-11 years,Relative,0
+0,1,1,1,1,1,0,1,1,1,8,m,Others,no,no,Syria,yes,8,4-11 years,Relative,1
+1,0,1,1,1,1,1,0,1,1,11,f,Asian,yes,no,Philippines,no,8,4-11 years,Parent,1
+1,1,1,0,1,1,1,1,0,0,6,f,Middle Eastern,no,yes,China,yes,7,4-11 years,Self,1
+1,1,1,1,0,0,1,1,0,0,9,m,South Asian,yes,yes,United Kingdom,no,6,4-11 years,Self,0
+1,1,0,0,0,1,1,0,1,1,11,f,Others,yes,no,Malta,yes,6,4-11 years,Self,0
+0,1,1,0,0,0,0,0,1,1,7,m,Latino,yes,no,Bangladesh,yes,4,4-11 years,Relative,0
+1,1,1,1,1,1,1,0,0,0,6,f,Middle Eastern,yes,yes,UAE,no,7,4-11 years,Self,1
+0,0,0,0,1,1,0,0,1,1,8,f,Hispanic,no,no,Nepal,no,4,4-11 years,Health care professional,0
+0,0,1,1,1,0,0,1,1,0,8,m,Asian,yes,no,Australia,no,5,4-11 years,Self,0
+1,1,0,0,1,0,0,1,1,1,11,m,Middle Eastern,yes,no,Canada,yes,6,4-11 years,Self,0
+0,1,1,1,0,1,0,0,0,1,10,f,White-European,no,yes,Pakistan,yes,5,4-11 years,Relative,0
+0,1,0,0,1,1,0,0,1,1,11,f,Asian,yes,yes,India,no,5,4-11 years,Parent,0
+1,0,1,0,0,0,1,0,0,0,4,f,Black,no,no,Costa Rica,no,3,4-11 years,Parent,0
+0,0,0,1,1,0,0,1,1,0,9,f,Black,yes,yes,Malta,no,4,4-11 years,Parent,0
+0,1,1,0,0,0,1,0,0,0,11,m,Middle Eastern,yes,yes,India,yes,3,4-11 years,Relative,0
+0,0,1,1,1,0,0,1,0,1,10,f,South Asian,no,no,Mexico,yes,5,4-11 years,Relative,0
+1,1,0,1,0,0,0,1,0,1,6,m,South Asian,no,no,Australia,yes,5,4-11 years,Health care professional,0
+1,0,0,0,0,0,0,1,1,1,5,f,Turkish,no,yes,Libya,yes,4,4-11 years,Relative,0
+1,0,1,0,0,1,0,0,1,0,5,m,Middle Eastern,no,yes,Afghanistan,no,4,4-11 years,Health care professional,0
+1,1,1,0,1,1,0,1,1,0,9,f,South Asian,yes,yes,Kutwait,no,7,4-11 years,Health care professional,1
+1,0,1,0,0,0,0,0,1,1,8,m,White-European,yes,yes,Germany,no,4,4-11 years,Relative,0
+0,0,1,1,1,1,1,1,0,1,4,m,Asian,no,yes,Afghanistan,yes,7,4-11 years,Parent,1
+1,1,1,1,1,1,1,1,0,1,11,m,Black,no,no,Bangladesh,no,9,4-11 years,Health care professional,1
+1,1,0,0,0,1,1,0,1,1,11,f,Turkish,no,no,Malaysia,no,6,4-11 years,Relative,0
+1,0,0,0,0,0,1,0,1,0,10,m,Asian,yes,no,Georgia,yes,3,4-11 years,Parent,0
+1,0,0,1,0,0,0,0,0,1,9,m,Middle Eastern,no,yes,Qatar,yes,3,4-11 years,Health care professional,0
+0,1,1,1,1,0,1,0,0,1,10,f,Middle Eastern,yes,yes,Malaysia,no,6,4-11 years,Parent,0
+1,1,0,0,1,1,1,1,1,1,6,m,South Asian,yes,no,China,yes,8,4-11 years,Self,1
+0,1,0,1,1,1,1,1,1,1,8,f,Black,yes,no,Qatar,yes,8,4-11 years,Parent,1
+1,1,0,0,1,1,0,1,0,1,8,m,Others,yes,yes,Costa Rica,no,6,4-11 years,Relative,0
+0,0,1,1,1,1,1,0,1,1,11,m,Middle Eastern,yes,no,China,no,7,4-11 years,Parent,1
+1,1,1,1,1,0,1,1,1,1,6,f,South Asian,no,no,South Africa,yes,9,4-11 years,Self,1
+0,1,1,0,0,1,1,0,0,0,10,f,Middle Eastern,yes,no,UAE,no,4,4-11 years,Self,0
+1,1,1,0,0,0,0,1,0,0,5,m,Latino,yes,no,Canada,no,4,4-11 years,Self,0
