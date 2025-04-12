@@ -5,7 +5,7 @@ library(factoextra)
 library(dendextend)
 
 # 1. Caricare un dataset di esempio (o usa il tuo dataset)
-file_path <- "C:/ASD-Child/ConversioneValori.R"
+file_path <- "C:/ASD-Child-main/ConversioneValori.R"
 
 source(file_path)
 
@@ -111,6 +111,7 @@ ggplot(df, aes(x = as.factor(result), y = as.factor(Cluster), fill = as.factor(C
         panel.grid = element_blank())
 
 df_pca$result <- data$result
+df_pca <- as.data.frame(lapply(df_pca, as.numeric))
 
 pca_table <- table(df_pca$Cluster, df_pca$result)
 

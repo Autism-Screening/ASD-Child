@@ -1,9 +1,7 @@
 # Carica il file CSV
-file_path <- "C:/ASD-Child/Autism-Child-Data.csv"
-file_path_to_generated <- "C:/ASD-Child/generated_autism_data.csv"
+file_path <- "C:/ASD-Child-main/Autism-Child-Data.csv"
+file_path_to_generated <- "C:/ASD-Child-main/Autism-Child-Data-Synthetic.csv"
 data <- read.csv(file=file_path,sep=",",header=T)
-
-# data <- data[-72, ]
 
 # data <- rbind(data, generated_data)
 
@@ -46,6 +44,15 @@ media_eta_maschile <- mean(eta_maschile_valida, na.rm = TRUE)
 
 # Sostituzione dei NA per il genere maschile con la media calcolata
 data$age[is.na(data$age) & data$gender == 0] <- media_eta_maschile
+
+# Identificazione delle righe valide (Età numerica e Genere femminile)
+eta_femminile_valida <- data$age[data$gender == 1 & !is.na(data$age)]
+
+# Calcolo della media delle età femminili valide
+media_eta_femminile <- mean(eta_femminile_valida, na.rm = TRUE)
+
+# Sostituzione dei NA per il genere femminile con la media calcolata
+data$age[is.na(data$age) & data$gender == 1] <- media_eta_femminile
 
 # Conversione della colonna Età in intero
 data$age <- as.integer(data$age)

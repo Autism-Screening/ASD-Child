@@ -4,7 +4,7 @@ library(ggplot2)
 library(cluster)
 
 # Preprocessamento del dataset
-file_path <- "C:/ASD-Child/ConversioneValori.R"
+file_path <- "C:/ASD-Child-main/ConversioneValori.R"
 
 source(file_path)
 

@@ -7,12 +7,12 @@ library(dplyr)
 library(tidyr)
 
 # Preprocessamento del dataset
-file_path <- "C:/ASD-Child/ConversioneValori.R"
+file_path <- "C:/ASD-Child-main/ConversioneValori.R"
 
 source(file_path)
 
-eps <- 2.8
-minPts <- 10
+eps <- 2.4
+minPts <- 11
 
 # Selezionare solo le colonne An_Score (caratteristiche comportamentali)
 score_columns <- paste0("A", 1:10, "_Score")
@@ -21,14 +21,18 @@ features <- data[, score_columns]
 # Normalizzare i dati (opzionale, ma utile per DBScan)
 features_scaled <- scale(features)
 
+# Esegui PCA
+pca_result <- prcomp(features_scaled, center = TRUE, scale. = TRUE)
+df_pca <- as.data.frame(pca_result$x)
+
 # Applicare DBScan (tuning necessario per eps e minPts)
-db <- dbscan(features_scaled, eps = eps, minPts = minPts)
+db <- dbscan::dbscan(df_pca, eps = eps, minPts = minPts)
 
 # Aggiungere i cluster al dataset originale
 data$Cluster <- as.factor(db$cluster)
 
 # Scegli un valore di k = minPts - 1
-k <- 7
+k <- 9
 kNNdistances <- kNNdist(features_scaled, k = k)
 
 # Plotta le distanze ordinate con l'estetica di ggplot

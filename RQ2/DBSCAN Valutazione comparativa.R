@@ -8,11 +8,6 @@ CH_max <- 800
 Silhouette_min <- -1
 Silhouette_max <- 1
 
-# Escludi i punti etichettati come rumore (Cluster == 0)
-non_noise_indices <- which(data$Cluster != 0)
-features_eval <- features_scaled[non_noise_indices, ]
-clusters_eval <- as.numeric(as.character(data$Cluster[non_noise_indices]))
-
 # Calcolo dell'indice Calinski-Harabasz
 # La funzione cluster.stats() richiede una matrice delle distanze e un vettore di cluster
 ch_stats <- cluster.stats(dist(features_eval), clusters_eval)
